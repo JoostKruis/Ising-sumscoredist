@@ -3,6 +3,15 @@
 
 # description -------------------------------------------------------------
 
+Calculate the analytical sumscore distribution for a 0/1 Ising model. 
+
+## INPUT
+
+# For a system with n nodes:
+
+# omega : the connectivity matrix [n x n]
+# mu : external magnetic field [n] 
+# beta : the inverse temperature [1]
 
 # function ----------------------------------------------------------------
 
