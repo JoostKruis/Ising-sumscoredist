@@ -3,7 +3,7 @@
 
 # description -------------------------------------------------------------
 
-Calculate the analytical sumscore distribution for a 0/1 Ising model. 
+# Calculate the analytical sumscore distribution for a 0/1 Ising model. 
 
 ## INPUT
 
